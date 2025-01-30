@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Joshua Edefo
-- 👀 I’m interested in data science, epidemiological and economic  modelling as it relates to research and analysis
-- 🌱 I’m currently improving my skills on Machine Learning, and deep learning as it relates to Advanced Research Computing and health research
-- 💞️ It will be graet to collaborate with you on Health research and related issues
-- 📫 How to reach me, my email: edefojoshua2000@yahoo.com
+- 👀 I’m skilled and interested in data science, epidemiological and economic  modelling as it relates to research and analysis
+- 🌱 I’m currently improving my skills on Machine Learning and deep learning with respect to Advanced Research Computing and health research
+- 💞️ It will be great to collaborate with you on Health research and related issues
+- 📫 You may comtact me via my email: edefojoshua2000@yahoo.com
 - 😄 Pronouns: He / him
 - ⚡ Fun fact: ...
 
